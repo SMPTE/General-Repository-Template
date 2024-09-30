@@ -11,6 +11,7 @@ Please report issues at <https://github.com/SMPTE/${repository_name}/issues> or 
 ## Contributing
 
 All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository_name}/>
+
 The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/${repository_name}-private>.
 
 ## Project details
