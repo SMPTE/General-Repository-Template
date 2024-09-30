@@ -6,7 +6,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Reporting issues
 
-Please report issues at <https://github.com/SMPTE/${repository_name}/issues> or at <TC chair email address>.
+Please report issues at <https://github.com/SMPTE/${repository_name}/issues> or at < TC chair email address >.
 
 ## Contributing
 
