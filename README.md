@@ -1,4 +1,4 @@
-# <Project title from AG-06>
+# SMPTE _DOC NUMBER_ - _TITLE_
 
 _This repository is public._
 
@@ -26,4 +26,10 @@ All published version(s) of this document can be found at <https://pub.smpte.org
 
 ## Reporting issues
 
-Issues should be reported at <https://github.com/SMPTE/${repository}/issues>.
+Please report issues at <https://github.com/SMPTE/${repository_name}/issues>.
+
+## Contributing
+
+All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository_name}/>
+
+The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/${repository_name}-private>.
