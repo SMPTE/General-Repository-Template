@@ -26,10 +26,10 @@ All published version(s) of this document can be found at <https://pub.smpte.org
 
 ## Reporting issues
 
-Please report issues at <https://github.com/SMPTE/${repository_name}/issues>.
+Please report issues at <https://github.com/SMPTE/${repository}/issues>.
 
 ## Contributing
 
-All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository_name}/>
+All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository}/>
 
-The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/${repository_name}-private>.
+The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/${repository}-private>.
