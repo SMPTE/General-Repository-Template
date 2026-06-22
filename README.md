@@ -1,6 +1,8 @@
-# SMPTE _DOC NUMBER_ - _TITLE_
+# SMPTE _${doc_number}_ - _${title}_
 
 _This repository is public._
+
+<!-- PCD-INFO:START --><!-- PCD-INFO:END -->
 
 ## Notices
 
